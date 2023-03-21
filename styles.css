@@ -1,0 +1,82 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.Blue_Blue {
+    background-color: #2d5dcc;
+    padding: 20px;
+    color:#FFFFFF;
+    border-radius: 10px;
+}
+
+.Flaming_Flamingo {
+    background-color: #e90f7c;
+    padding: 20px;
+    color:#FFFFFF;
+    border-radius: 10px;
+}
+
+.Minty_Mint {
+    background-color: #00f4ab;
+    padding: 20px;
+    color:#2b2b2b;
+    border-radius: 10px;
+}
+
+.Brown_Brownies {
+    background-color: #482704;
+    padding: 20px;
+    color:#FFFFFF;
+    border-radius: 10px;
+}
+
+.color_grid {
+    display: grid;
+    gap: 10px;
+    grid-template-columns: 50% 50%;
+    text-align: center;
+    border: 1px solid #c8c8c8;
+    padding: 20px;
+    font: #FFFFFF;
+    border-radius: 10px;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.fonts_box {
+    display: grid;
+    gap: 10px;
+    border-radius: 10px;
+    align-items: center;
+    border: 1px solid #c8c8c8;
+    padding: 20px;
+    text-align: left;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.Helvetica {
+    font-family: Helvetica;
+}
+
+.Poppins {
+    font-family: Poppins;
+}
+
+.Quicksand {
+    font-family: "Quicksand";
+}
+
+h1 {
+    font-size: 26px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+p {
+    font-size: 16px;
+}
